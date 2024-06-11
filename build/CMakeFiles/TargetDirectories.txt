@@ -1,0 +1,3 @@
+/home/kaworu/timp/build/CMakeFiles/protect.dir
+/home/kaworu/timp/build/CMakeFiles/edit_cache.dir
+/home/kaworu/timp/build/CMakeFiles/rebuild_cache.dir
