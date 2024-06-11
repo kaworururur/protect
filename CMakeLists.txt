@@ -17,3 +17,7 @@ set(SOURCES
 
 # Add executable
 add_executable(protect ${SOURCES})
+
+enable_testing()
+
+add_subdirectory(tests)
